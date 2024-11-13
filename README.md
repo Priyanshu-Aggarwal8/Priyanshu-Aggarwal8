@@ -65,12 +65,6 @@ Feel free to reach out if you're interested in collaborating, discussing new ide
 
 ---
 
-### 📈 GitHub Stats
-
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
-
---- 
-
 🌟 *"Driven by curiosity and the joy of problem-solving."* 🌟 
 
 Looking forward to connecting with like-minded developers and creating something amazing!
