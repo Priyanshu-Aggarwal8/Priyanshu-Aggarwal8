@@ -60,7 +60,7 @@ I'm a passionate **Full Stack Developer** with a knack for creating seamless and
 
 Feel free to reach out if you're interested in collaborating, discussing new ideas, or simply saying hello!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshu-aggarwal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/Priyanshu-Aggarwal8)
 - 🐦 [Leetcode](https://leetcode.com/u/priyanshu_aggarwal8/)
 
 ---
