@@ -18,7 +18,7 @@ I'm a passionate **Full Stack Developer** with a knack for creating seamless and
 ## 🛠️ Technologies & Skills
 
 ### Languages
-- **JavaScript** / **TypeScript** – Front-end development with a focus on UI/UX
+- **C++** – Focus on Object-Oriented Design principles using C++
 - **Python** – Full-stack development with Django
 - **Java** – For robust back-end services and RESTful APIs
 
